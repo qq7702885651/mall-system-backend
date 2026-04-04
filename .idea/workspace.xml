@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08f195c7-518a-41ae-86fb-fba35f893de3" name="更改" comment="frist commit!">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-model/src/main/java/com/siwei/App.java" beforeDir="false" />
+    <list default="true" id="08f195c7-518a-41ae-86fb-fba35f893de3" name="更改" comment="优化代码格式">
       <change beforePath="$PROJECT_DIR$/mall-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-server/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +34,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/code/Mall Project/mall-system-backend",
@@ -91,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1775222067031</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="优化代码格式">
+      <option name="closed" value="true" />
+      <created>1775307974909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775307974909</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="frist commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="frist commit!" />
+    <MESSAGE value="优化代码格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化代码格式" />
   </component>
 </project>
